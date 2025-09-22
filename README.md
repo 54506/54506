@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Subham Sekhar Dash</h1>
-<h3 align="center" style="">A passionate Python full stack developer from India</h3>
+<h3 align="center">A passionate Python full stack developer from India</h3>
 
 - 🔭 I’m currently working on [Jarvis](https://github.com/54506/voice-assistant.git)
 
